@@ -15,6 +15,25 @@ Practicar lo aprendido en el tutorial de entendimiento de los datos.
 1. Notebook para trabajar: puede usar la seccion 5 "Tarea" al final del notebook del tutorial para realizar esta actividad
 2. Acceso a la base de datos WWImportersTransactional
 
+# Caso WWImporters
+Wide World Importers[^1] es un importador y distribuidor de productos de primera categoría, que funciona desde el área de la bahía de San Francisco. Como mayorista, los clientes de WWI son principalmente empresas que revenden a individuos. WWI vende a los clientes de venta al por menor en el Estados Unidos como tiendas especializadas, supermercados, almacenes informáticos, tiendas de atracción turística y otras personas. WWI también vende a otros mayoristas a través de una red de agentes que promocionan los productos en el nombre de WWI. A pesar de que todos los clientes de WWI se basan actualmente en el Estados Unidos, la empresa está intentando impulsar la expansión en otros países. 
+
+WWI compra mercancías de proveedores, incluidos los fabricantes de la novedad y el juguete, y otros mayoristas. Almacenan las mercancías en el almacén de WWI y reordenan a los proveedores según sea necesario para satisfacer los pedidos de los clientes. También compran grandes volúmenes de materiales de embalaje y los venden en cantidades más pequeñas, por comodidad para los clientes. 
+
+Los objetivos de World Wide Importers son:
+
+1. Ofrecer a los clientes productos que deseen cuándo y dónde lo deseen
+2. Dar un servicio de calidad que maximice las ganancias por ventas
+3. Optimizar el manejo de inventario de los productos
+
+Wide World Importers nos contrata como consultores para hacer un proyecto de analítica 1.0, en el cual quiere entender el comportamiento de los clientes o vendedores a partir de órdenes de venta con el fin de monitorear el logro de los objetivos estratégicos anteriores. Como resultados de la consultoría se tiene la documentación de los requerimientos analíticos en el siguiente formato:
+
+| **Tema analítico**                                               | **Análisis requeridos o inferidos**                                                                                                       | **Categoría del análisis (\*)** | **Procesos de negocio** | **Fuentes de datos**                                                    |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
+| **Comportamiento de clientes a partir de órdenes** **de compra** | Visualizar la cantidad de productos vendidos y el valor total recaudado en un **rango de fechas** por cliente, vendedor, ciudad, producto | Tablero de control              | Ventas                  | Ordenes, detalles de órdenes, clientes, productos, ciudades, vendedores |
+
+Adicionalmente, WWImporters desea realizar análisis sobre los datos de movimientos de inventarios y esa será la temática principal para el desarrollo de las tareas del curso.
+
 # Enunciado
 
 Ahora que ya aprendió a usar PySpark para exploración y preprocesamiento de datos, lo invitamos a que realice el proceso de entendimiento de datos de la tabla movimientosCopia, que registra el movimiento en inventario de un producto. La empresa no compartió información de las tablas de clientes ni de proveedores para esta actividad. 
