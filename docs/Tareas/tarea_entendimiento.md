@@ -1,4 +1,4 @@
-# Tarea: Entendimiendo de los datos
+# Tarea: Entendimiento de los datos
 
 # Introducción
 
