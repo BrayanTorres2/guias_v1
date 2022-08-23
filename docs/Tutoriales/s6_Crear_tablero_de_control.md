@@ -17,7 +17,7 @@ Visualizar los resultados y facilitar la interacción de los tomadores de decisi
 
 1. Google data studio: https://datastudio.google.com
 2. Acceso al servidor de base de datos
-3. Script auxiliar <a href='./crearTableroScript.sql'>aquí</a>
+3. [Script auxiliar: ](crearTableroScript.sql)
 
 ## Enunciado
 Diríjase al link de data studio, de clic en "USE IT FOR FREE" e inicie sesión en su cuenta gmail.
