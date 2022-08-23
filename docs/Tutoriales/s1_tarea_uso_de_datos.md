@@ -1,4 +1,4 @@
-# Tarea: Uso de tableros de control
+# Autdiagnóstico: Uso de tableros de control
 Recordemos que Wide World Importers nos contrató como consultores para hacer un proyecto de analítica 1.0, en el cual quiere entender el comportamiento de los clientes o vendedores a partir de órdenes de venta, con el fin de monitorear el logro de sus objetivos estratégicos. Es así como en ese proyecto se tenía la siguiente documentación de los requerimientos analíticos:
 
 | **Tema analítico**                                               | **Análisis requeridos o inferidos**                                                                                                       | **Categoría del análisis (\*)** | **Procesos de negocio** | **Fuentes de datos**                                                    |
