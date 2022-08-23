@@ -4,6 +4,7 @@ Recordemos que Wide World Importers nos contrató como consultores para hacer un
 | **Tema analítico**                                               | **Análisis requeridos o inferidos**                                                                                                       | **Categoría del análisis (\*)** | **Procesos de negocio** | **Fuentes de datos**                                                    |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------- | ----------------------------------------------------------------------- |
 | **Comportamiento de clientes a partir de órdenes** **de compra** | Visualizar la cantidad de productos vendidos y el valor total recaudado en un **rango de fechas** por cliente, vendedor, ciudad, producto | Tablero de control              | Ventas                  | Ordenes, detalles de órdenes, clientes, productos, ciudades, vendedores |
+ 
  Y fue la base para desarrollar el tablero de control "Comportamiento de clientes a partir de órdenes de compra" construido con Data Studio. Dados algunos problemas de eficiencia que se evidenciaron en el uso del tablero, se crearon tres tableros distintos, los cuales utilizan diferente cantidad de datos: 
 
 - [1.000 registros](https://datastudio.google.com/reporting/1b8e432d-3d2d-4f8b-8174-30f992f72dae)
