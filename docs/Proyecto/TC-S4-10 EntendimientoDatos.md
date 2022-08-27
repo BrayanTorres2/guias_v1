@@ -19,15 +19,21 @@ Recuerde que la exploración de los datos depende de los objetivos que tenga el 
 
 1.	**Análisis 1:** ¿Si se tiene o se ha tenido comportamiento desleal a nivel de las aseguradoras? Está interesado en ver si dado un proveedor o grupo de proveedores si tiene o ha tenido un no comportamiento desleal? o si dado un rango de fechas se identifican proveedores con comportamientos desleales. Un comportamiento desleal corresponde a proveedores que brinden planes con el mismo tipo de beneficio cuyo valor de copago o coseguro evidencian diferencias mayores al 20% 
 2.	**Análisis 2:** A lo largo del tiempo o dado un rango de años, ¿se ha logrado una cobertura total de los proveedores, cubriendo con sus plantes TODAS las áreas de servicio? ¿Han existido áreas de servicios que sean cubiertas, a nivel de planes, por  menos de dos proveedores?  
-3.	**Análisis 3:** ¿Qué aeropuerto representa mayor exportación internacional en términos de carga?
-4.	**Análisis 4:** ¿Identificar si hay concentraciones de planes en las áreas de servicio que no correspondan con la cantidad de habitantes del área y cuales son y en qué áreas?.
-5.	**Análisis 5:** ¿Cómo han evolucionado los costos y tipos de beneficios a lo largo del tiempo para tipo de beneficio, proveedor, fecha? De tal manera que pueda identificar tipos de beneficios que han aumentado o disminuido costos.
+3.	**Análisis 3:** ¿Identificar si hay concentraciones de planes en las áreas de servicio que no correspondan con la cantidad de habitantes del área y cuales son y en qué áreas?.
+4.	**Análisis 4:** ¿Cómo han evolucionado los costos y tipos de beneficios a lo largo del tiempo para tipo de beneficio, proveedor, fecha? De tal manera que pueda identificar tipos de beneficios que han aumentado o disminuido costos.
 
 A partir de lo anterior, los consultores de BI construyeron la siguiente tabla donde se encuentra la generalización de los ejemplos anteriores como análisis identificados y los datos requeridos para lograr los objetivos de esta tarea
 
 | Tema analítico  | Análisis requeridos o inferidos | Categoría del análisis (*)  | Procesos de negocio | Fuentes de datos |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Comportamiento de proveedores   | Análisis 1  | Tablero de control  |   |  |
+| Comportamiento desleal de proveedores   | **Análisis 1.a:** Dado un proveedor o grupo de proveedores si tiene o ha tenido un no comportamiento desleal? **Análisis 1.b:** Dado un rango de fechas se identifican proveedores con **comportamientos desleales**. Un comportamiento desleal corresponde a proveedores que brinden planes con el mismo tipo de beneficio cuyo valor de copago o coseguro evidencian diferencias mayores al 20%   | Tablero de control  | Oferta de planes  | F2. Beneficios (Tipos de beneficio y condiciones), F3. BeneficiosPlanes  |
+| Cobertura de planes | **Análisis 2.a:** Dado un rango de años, mostrar el nivel de cobertura de los planes con respecto a las áreas de servicio, **Análisis 2.b** ¿Se ha logrado una cobertura total de los proveedores, cubriendo con sus plantes TODAS las áreas de servicio? **Análisis 2.c:** ¿Han existido áreas de servicios que sean cubiertas, a nivel de planes, por  menos de dos proveedores?   |Tableros de control | Oferta de planes  | F2. Beneficios (Tipos de beneficio y condiciones), F3. BeneficiosPlanes  |
+| Cobertura de planes |  |  |Oferta de planes  | F2. Beneficios (Tipos de beneficio y condiciones) 
+F3. BeneficiosPlanes  |
+| Cobertura de planes |  |  |  Oferta de planes  | F2. Beneficios (Tipos de beneficio y condiciones) 
+F3. BeneficiosPlanes  |
+| Cobertura de planes |  |  |  |  |
+
 
 *La categoría de análisis posibles son Tableros de control, Análisis OLAP, Aprendizaje automático, consultas SQL. En el curso solo vamos a abordar los tableros de control
 
