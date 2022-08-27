@@ -20,7 +20,7 @@ Wide World Importers[^1] es un importador y distribuidor de productos de primera
 
 WWI compra mercancías de proveedores, incluidos los fabricantes de la novedad y el juguete, y otros mayoristas. Almacenan las mercancías en el almacén de WWI y reordenan a los proveedores según sea necesario para satisfacer los pedidos de los clientes. También compran grandes volúmenes de materiales de embalaje y los venden en cantidades más pequeñas, por comodidad para los clientes. 
 
-Los objetivos de World Wide Importers son:
+Los objetivos de Wide World Importers son:
 
 1. Ofrecer a los clientes productos que deseen cuándo y dónde lo deseen
 2. Dar un servicio de calidad que maximice las ganancias por ventas
