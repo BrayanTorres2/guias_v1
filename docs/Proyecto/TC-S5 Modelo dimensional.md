@@ -22,12 +22,12 @@ A continuación, se presentan los análisis propuestos y los datos requeridos pa
 | Comportamiento de vuelos y aeropuertos en Colombia   | Análisis 5 <br> Visualizar la información de los aeropuertos que están en centros poblados donde la población de mujeres es mayor a la de hombres, con un PIB, el año de análisis, superior al promedio del Departamento donde está el centro poblado y donde el número de vuelos por mes de un año particular seleccionado está por debajo del promedio nacional ese mismo mes de ese año. <br>| Tablero de control  | Tráfico y capacidad de carga aérea en aeropuertos de Colombia  | Aeropuertos, Vuelos  |
 | Comportamiento de vuelos y aeropuertos en Colombia   | Análisis 6 <br> Visualizar la información de los aeropuertos y/o vuelos en relación a las proyecciones de habitantes por género, edad y pib <br>| Tablero de control  | Caracterización de los servicios vs comportamiento de los clientes |PIB,  Proyecciones de habitantes por edad y género  |
 
-** Los análisis de la tabla pueden ser agrupaciones de análisis más pequeños o se pueden extender, incluso puede que los análisis no estén completos. Es libre de proponerle nuevos análisis al negocio o complementar los de la tabla como parte de sus conclusiones. Piense en que le beneficiaría más a Infraestructura Visible y en paticular a un usuario que esté interesado en este estilo de análisis.
+** Los análisis de la tabla pueden ser agrupaciones de análisis más pequeños o se pueden extender, incluso puede que los análisis no estén completos. El objetivo de compartir esos análisis es brindar una guía de lo que la organización le gustaría lograr con el proyecto.
 
 ## **Recursos requeridos**
 ***Datos suministrados***
 
-Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](https://github.com/MISW-4402-Analisis-y-Modelado-de-datos/guias/blob/main/docs/Proyecto/Diccionario%20IV.xlsx), ambos recursos requeridos para el desarrollo de esta tarea, las tablas son copias de las tablas relacionales del negocio. 
+Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20IV.xlsx), ambos recursos requeridos para el desarrollo de esta tarea. Las tablas compartidas son copia de las fuentes originales. 
 -	aeropuertosCopia
 -	divipolaCopia
 -	vuelosCopia
