@@ -18,6 +18,7 @@ RaSA de forma conjunta con un grupo de consultores de inteligencia de negocios, 
 Recuerde que la exploración de los datos depende de los objetivos que tenga el proyecto de analítica. Es así como RaSA le comparte **ejemplos** de análisis que en este momento está interesado en responder, documentados en la matriz de temas analíticos, donde se encuentra, adicional a los análisis identificados (ver la columna análisis requeridos), los datos requeridos para lograr los objetivos del proyecto.
 
 ![](analisis.md)
+
 Para esta actividad de entender el negocio, la empresa les comparte los siguientes grupos de fuentes de datos:
 
 F1. GruposAreasdeServicio y areas de servicio  
