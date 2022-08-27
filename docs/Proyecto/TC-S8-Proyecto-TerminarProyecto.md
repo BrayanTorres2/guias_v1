@@ -6,7 +6,7 @@
 - Aplicar una metodología para el desarrollo de proyectos de analítica descriptiva desde el entendimiento de los datos hasta la visualización del resultado
 ## **Instrucciones**
 
-![](./Img/S210InfrestructuraVisible.png)
+![](Img/LogoRaSA.png)
 
 En esta fase del proyecto, Infraestructura Visible desea que trabaje en su grupo para concluir las actividades del proyecto y tener la oportunidad de interactuar con las soluciones de otros grupos, construidas en el curso. 
 
@@ -25,12 +25,11 @@ Todo el material desarrollado en el curso. Recuerde que estos recursos a nivel d
 
 ●	Datos compartidos en la base de datos **Proyecto_DWH_sln**, que corresponden a las tablas que representan el modelo dimensional compartido por InfraestructuraVisible como solución, el cual se presenta en la imagen que se presenta más adelante.
 
-El modelo estará disponible después de la entrega de Modelado multidimensional del proyecto
+El modelo estará disponible después de la entrega de Modelado multidimensional del proyecto.
 
 ## **Recomendaciones de los entregables**
 - Tener una copia de las tablas compartidas en su ambiente de máquina virtual para que puedan trabajarlas de forma independiente.
 - Dividan el proceso de construcción del tablero de control: la primera parte donde adicionan los gráficos y la segunda, donde prueba con la totalidad de los datos. Durante la primera parte, pueden crear una tabla/vista con la misma estructura de la que requieren y una muestra de los registros para entender su comportamiento. Una vez tengan listo y probado el gráfico pueden hacer la consulta sobre la tabla/vista con todos los datos.
-- Incluir en la entrega la dirección de la wiki donde registraron lo solicitado en esta tarea.
 - Padlet a utilizar:
     - Propuestas de proyecto: 
     - Contraseña: 
