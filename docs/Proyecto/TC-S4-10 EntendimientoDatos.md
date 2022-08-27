@@ -56,6 +56,7 @@ Los datos los puede encontrar en la base de datos: ProyectoTransaccional del ser
 - F2: BeneficiosCopia
 - F3: BeneficiosPlanesCopia
 - F4: NivelDeRedCopia y CondicionesDePagoCopia 
+
 ***Tecnología***
 
 Recuerde que está el tutorial de “Entendimiento de datos”, que será de utilidad para el uso de la tecnología utilizada en esta tarea.
