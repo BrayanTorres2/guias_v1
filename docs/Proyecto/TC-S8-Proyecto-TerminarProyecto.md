@@ -26,7 +26,7 @@ En particular se espera que realice las siguientes actividades:
 
 4.	***Entregable 4: Coevaluación entre integrantes del equipo:*** Tendrán la oportunidad de reflexionar sobre el trabajo en equipo, realizado en el proyecto y llegar a consensos sobre esa parte. Utilice los criterios definidos de la entrega para asignar esa nota y hacer comentarios.
 
-5. ***Entregable 5: Opcional Bono de 20/100 puntos en la nota de la entrega del proyecto*** En el proyecto, tiene la opción de tener un bono por integración de una nueva fuente de datos. Esta nueva fuente de datos debe aportar datos al modelo dimensional (si es necesario adáptelo) de igual manera debe estar en el proceso de ETL y debe ser utilizado en alguno de los tableros de control. Debe explicar esta parte e incluirlo en este entregable. Si no hace el bono, en el envío coloque NA (No aplica).
+5. ***Entregable 5: Opcional Bono de 20/100 puntos en la nota de la entrega del proyecto*** En el proyecto, tiene la opción de tener un bono por integración de una nueva fuente de datos. Esta nueva fuente de datos debe aportar datos al modelo multidimensional (si es necesario adáptelo) de igual manera debe estar en el proceso de ETL y debe ser utilizado en alguno de los tableros de control. Debe explicar esta parte e incluirlo en este entregable. Si no hace el bono, en el envío coloque NA (No aplica).
 
 Asociada a esta entrega encuentra un segundo enlace para determinar el grupo al cual le hará la coevaluación entre equipos. De igual manera encontrará un tercer enlace para que de común acuerdo entre los miembros del grupo, evalúen el aporte y compromiso de los distintos integrantes del grupo en lo que denominamos coevaluación entre integrantes del equipo.
 
