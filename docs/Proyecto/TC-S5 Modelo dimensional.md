@@ -43,7 +43,7 @@ Recuerde los videos y lecturas de modelado multidimensional, que serán de utili
 Adicionalmente, se le sugiere utilizar una herramienta como [GenMyModel](https://www.genmymodel.com/) o [Lucidchart](https://lucid.app/es/users/login#/login?_gl=1*1sru4v4*_ga*MjA1NjkyODI5LjE2NTUzMjA2MzY.*_ga_MPV5H3XMB5*MTY1NTQzMTAyOS4yLjAuMTY1NTQzMTAyOS42MA..&anonId=0.8bb37e0e18168cc6c65&sessionDate=2022-06-17T01:57:06.970Z&sessionId=0.88d2ce41816f60d91a&activate=lucidchart) para dibujar el modelo. Este tipo de herramientas facilita el mantenimiento de los modelos de datos.
 
 ## **Recomendaciones de los entregables**
-
+- Recuerde que el modelo de datos no solo es para resolver los análisis actuales. Haga un balance entre lo proporcionado por las fuentes y los tipos de análisis que tiene hasta este momento para proponer su modelo.
 ## **Preguntas o más información**
 - Las preguntas que surjan en el desarrollo de esta tarea pueden registrarlas en el slack del curso
 - Recuerde que tiene a su disposición el tutorial de Creación y manejo de la Wiki [aquí](https://misovirtual.virtual.uniandes.edu.co/codelabs/wiki-github/index.html?index=..%2F..ETL#0)
