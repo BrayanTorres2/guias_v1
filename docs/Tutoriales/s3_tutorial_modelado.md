@@ -1,5 +1,5 @@
 
-# Tutorial: Modelo dimensional y SQL
+# Tutorial: Representación ROLAP de un modelo multidimensional y acceso a los datos
 
 ## Introducción
 
@@ -21,7 +21,7 @@ Entender la relación entre SQL y el modelo multidimensional
 1. MySQL Workbench
 2. Modelo multidimensional de ordenes de Wide World Importers
 3. Credenciales de acceso a la base de datos
-4. Script SQL <a href='https://github.com/MISW-4402-Analisis-y-Modelado-de-datos/guias/blob/main/docs/Tutoriales/script.sql'>aquí</a>
+4. Script SQL [aquí](script.sql)
 
 ## Enunciado
 
