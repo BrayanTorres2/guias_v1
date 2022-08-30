@@ -21,7 +21,7 @@ Entender la relación entre SQL y el modelo multidimensional
 1. MySQL Workbench
 2. Modelo multidimensional de ordenes de Wide World Importers
 3. Credenciales de acceso a la base de datos
-4. Script SQL [aquí](script.sql)
+4. Script SQL [aquí](./script.sql)
 
 ## Enunciado
 
