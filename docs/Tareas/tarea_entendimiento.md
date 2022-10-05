@@ -47,6 +47,10 @@ En esta actividad le recomendamos revisar el diccionario de datos suministrado y
 - Actualmente tenemos 13 proveedores 
 
 Recuerde:
- - Terminar la actividad con una conclusión e incluir lista de preguntas o aclaraciones para la organización, problemas de calidad y alternativas para la limpieza.
  - Revisar la infografía de entendimiento de datos y de calidad de datos.
- - La entrega hágala en un notebook donde incluya únicamente los elementos solicitados en la tarea.
+ - Ser ordenado en la entrega
+ - Evitar tener imágenes o tablas sin análisis
+ - Incluir el significado de una fila (no es copia del diccionario de datos)
+ - Terminar la actividad con una conclusión orientada a las personas de negocio 
+ - Incluir la lista de preguntas o aclaraciones para la organización, problemas de calidad y alternativas para la limpieza.
+ - Hacer la entrega en un notebook donde incluya únicamente los elementos solicitados en la tarea.
