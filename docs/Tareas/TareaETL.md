@@ -23,9 +23,11 @@ Ahora que sabe cómo realizar un proceso ETL, dado el modelo multidimensional de
 
 3. **Entregable 2 - Implementación del ETL:** implementación del proceso ETL para las dimensiones Proveedor, TipoTransaccion y para la tabla de hechos. En el entregable incluya una descripción general que permita comprender el proceso de implementación del ETL.
 
-Note que para este proceso de negocio, las dimensiones Producto, Cliente y Fecha son iguales a las del hecho Orden, este caso se conoce como dimensiones compartidas. Usted debe concentrarse en las dimensiones Proveedor, TipoTransaccion y la tabla de hechos que no existen en la bodega de datos actualmente.
+Note que para este proceso de negocio, las dimensiones Producto, Cliente y Fecha son iguales a las del hecho Orden, este caso se conoce como dimensiones compartidas. Usted debe concentrarse en las dimensiones Proveedor, TipoTransaccion, Fecha y la tabla de hechos que no existen en la bodega de datos actualmente.
 
-El modelo dimensional estará disponible después de la entrega de la tarea de modelado de datos.
+El modelo multidimensional: Este modelo representa los movimientos(transacciones) que se hacen sobre el inventario de WWImporters. En particular, se observa que se tiene información de los tipos de transacciones, realizadas por un proveedor, relacionado con un cliente y un producto específico en una fecha determinada. En el modelo se dejan explícitos los dos tipos de identificadores que se crean a nivel de la bodega. el propio de la Bodega, (con el sufijo DWH) y el que viene de la fuente (con el sufijo T).
+
+![Modelo movimientos](Img/Modelo%20movimiento.png)
 
 Sobre los resultados del entendimiento de datos, Wide World Importers les comenta lo siguiente:
 Las respuestas del negocio estarán disponibles después de la entrega de la tarea de entendimiento de datos
