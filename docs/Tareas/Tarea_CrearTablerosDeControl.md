@@ -46,4 +46,3 @@ En los videos y lecturas de esta semana, encuentra lo que debe tener en cuenta p
 - Ser cuidadoso con los colores y el contraste entre ellos al momento de realizar el tablero de control
 - Incluir nombres de gráficas, ejes y unidades cuando se requieran
 - Utilizar gráficos que faciliten la interacción
-- 
