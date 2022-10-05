@@ -33,3 +33,8 @@ Sobre los resultados del entendimiento de datos, Wide World Importers les coment
 Las respuestas del negocio estarán disponibles después de la entrega de la tarea de entendimiento de datos
 
 Los datos revisados por el negocio quedan en las tablas Proveedores y movimientos y estos son los que deben utilizar en el proceso ETL. Por otra parte, en las tablas ProveedoresCopia y movimientosCopia quedan los datos con errores en caso de que deseen revisar/ejecutar el ejercicio que realizó de entendimiento de datos.
+
+# Recuerde
+- El diseño es fundamental y en particular el detalle de las transformaciones
+- Dejar evidencia de las tablas creadas y pobladas en la base de datos que le fue asignada en el curso
+- Entregar el notebook únicamente con la información solicitada en la tarea
