@@ -51,3 +51,11 @@ ZooAlpes maneja diferentes tipos de entrada entre los que se encuentran: plan **
 ### Herramientas de modelado online:
 - LucidChart: https://www.lucidchart.com/pages/es
 - GenMyModel: https://www.genmymodel.com/
+
+### Recuerde:
+- En la primera parte, mostrar evidencia de los resultados obtenidos
+- Incluir las llaves foráneas a nivel de la tabla de hechos
+- En estos modelos multidimensionales se debe identificar claramente la tabla de hechos
+- Revise los errores frecuentes dados en videos de la semana y valide que su modelo no los tenga
+- No olviden la dimensión Fecha
+- 
