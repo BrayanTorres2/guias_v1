@@ -36,7 +36,7 @@ Adicionalmente, WWImporters desea realizar análisis sobre los datos de movimien
 
 # Enunciado
 
-Ahora que ya aprendió a usar PySpark para exploración y preprocesamiento de datos, lo invitamos a que realice el proceso de entendimiento de datos de la tabla movimientosCopia, que registra el movimiento en inventario de un producto. La empresa no compartió información de las tablas de clientes ni de proveedores para esta actividad. 
+Ahora que ya aprendió a usar PySpark para exploración y calidad de datos, lo invitamos a que realice el proceso de **entendimiento de datos** de la tabla movimientosCopia, que registra el movimiento en inventario de un producto. La empresa no compartió información de las tablas de clientes ni de proveedores para esta actividad. 
 
 En esta actividad le recomendamos revisar el diccionario de datos suministrado y en particular la información relacionada con la tabla **movimientosCopia**. Si tienen alguna duda relacionada con esta tabla deben incluirla en las preguntas o aclaraciones que le entreguen al negocio. En relación a los datos Wide World Importers menciona:
 
@@ -48,4 +48,5 @@ En esta actividad le recomendamos revisar el diccionario de datos suministrado y
 
 Recuerde:
  - Terminar la actividad con una conclusión e incluir lista de preguntas o aclaraciones para la organización, problemas de calidad y alternativas para la limpieza.
- - Revisar la infografía de entendimiento de datos.
+ - Revisar la infografía de entendimiento de datos y de calidad de datos.
+ - La entrega hágala en un notebook donde incluya únicamente los elementos solicitados en la tarea.
