@@ -1,0 +1,15 @@
+idCondicionesDePagoCopagoDWH;Descripcion
+1;Copay per Day after deductible
+2;Not Applicable
+3;No Charge
+4;Copay per Stay after deductible
+5;Copay per Day before deductible
+6;Copay per Stay before deductible
+7;Copay per Day with deductible
+8;Copay per Stay with deductible
+9;Copay after deductible
+10;Copay before deductible
+11;Copay with deductible
+12;Copay per Day
+13;Copay per Stay
+14;Copay
