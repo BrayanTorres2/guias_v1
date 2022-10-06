@@ -37,13 +37,13 @@ Digite en *Username* su usuario indicado en el documento de credenciales. Ejempl
 
 Una vez establecida la conexión va a poder ejecutar sentencias SQL en el editor identificado como Query 1.
 
-<img src="./img/ workbench_sql" width="800"/>
+<img src="./img/ workbench_sql.PNG" width="800"/>
 
 En la parte izquierda se encuentran las bases de datos a las que tiene acceso. En esta ocasión se utilizará la base de datos WWICopiaTransaccional.
 
 Si despliega la base de datos encontrara una pestaña para las tablas y dentro de ellas la tablas que componen esa base de datos. Al desplegar cada tabla encuentra información importante como las columnas, índices, llaves foráneas. Despliegue las columnas para encontrar el nombre de las columnas en cada tabla.
 
-<img src="./img/ workbench_tablas" width="800"/>
+<img src="./img/ workbench_tablas.PNG" width="800"/>
 
 Se procederá con las sentencias para explorar las tablas que se encuentran en la base de datos WWICopiaTransaccional.
 
