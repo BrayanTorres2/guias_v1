@@ -45,7 +45,12 @@ Si despliega la base de datos encontrará una pestaña para las tablas y dentro 
 
 <img src="./img/workbench_tablas.PNG" width="800"/>
 
-Se procederá con las sentencias para explorar las tablas que se encuentran en la base de datos WWICopiaTransaccional.
+Se procederá con las sentencias para explorar las tablas que se encuentran en la base de datos WWICopiaTransaccional. En particular, te invitamos a realizar los ejercios que están en el recurso de ejercicios SQL. Ejemplos de ellos, los podrás ver en las siguientes figuras y revisar en detalle en el video que acompaña este tutorial.
+
+<img src="./img/ConsultaSQLCount.PNG" width="800"/>
+<img src="./img/ConsultaSQLSelectAll.PNG" width="800"/>
+
+
 
 # Cierre
 Al terminar este tutorial, el estudiante está en capacidad de ejecutar sentencias en MySQL Workbench.
