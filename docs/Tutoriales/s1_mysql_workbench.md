@@ -41,6 +41,11 @@ Una vez establecida la conexión va a poder ejecutar sentencias SQL en el editor
 
 En la parte izquierda se encuentran las bases de datos a las que tiene acceso. En esta ocasión se utilizará la base de datos WWICopiaTransaccional.
 
+Si despliega la base de datos encontrara una pestaña para las tablas y dentro de ellas la tablas que componen esa base de datos. Al desplegar cada tabla encuentra información importante como las columnas, índices, llaves foráneas. Despliegue las columnas para encontrar el nombre de las columnas en cada tabla.
+
+<img src="./img/ workbench_tablas" width="800"/>
+
+Se procederá con las sentencias para explorar las tablas que se encuentran en la base de datos WWICopiaTransaccional.
 
 # Cierre
 Al terminar este tutorial, el estudiante está en capacidad de ejecutar sentencias en MySQL Workbench.
