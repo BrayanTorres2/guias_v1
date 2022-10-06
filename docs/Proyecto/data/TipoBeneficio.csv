@@ -1,0 +1,250 @@
+IdTipoBeneficioDWH;LimitUnit;BenefitName
+1;;X-rays and Diagnostic Imaging
+2;;Wilm's Tumor
+3;;Well Child Care
+4;;Well Baby Visits and Care
+5;Visit(s) per Year;Weight Loss Programs
+6;;Weight Loss Programs
+7;;Vital Pulpotomy
+8;Procedure(s) per Lifetime;Vital Pulpotomy
+9;;Urgent Care Centers or Facilities
+10;;Treatment of hemophilia
+11;;Treatment of Hemophilia
+12;;Treatment for Temporomandibular Joint Disorders
+13;Treatment(s) per Lifetime;Treatment for Temporomandibular Joint Disorders
+14;Item(s) per Benefit Period;Treatment for Temporomandibular Joint Disorders
+15;Dollars per Year;Treatment for Temporomandibular Joint Disorders
+16;Procedure(s) per Year;Treatment for Temporomandibular Joint Disorders
+17;;Transplant
+18;Exam(s) per Transplant;Transplant
+19;;Topical Flouride
+20;Procedure(s) per Year;Topical Flouride
+21;;Third Opinion
+22;;Testing Services
+23;;Telehealth
+24;;Substance Abuse Disorder Outpatient Services
+25;;Substance Abuse Disorder Inpatient Services
+26;;Specialty Laboratory Services
+27;;Specialty Drugs Tier 2
+28;;Specialty Drugs
+29;;Specialist Visit
+30;;Smoking Cessation Aids
+31;;Skilled Nursing Facility
+32;Days per Benefit Period;Skilled Nursing Facility
+33;Days per Year;Skilled Nursing Facility
+34;Days per Stay;Skilled Nursing Facility
+35;;Sickle Cell Anemia
+36;;Second Opinion
+37;;Sealants
+38;Procedure(s) per 3 Years;Sealants
+39;;Routine Foot Care
+40;Visit(s) per Year;Routine Foot Care
+41;Visit(s) per Benefit Period;Routine Eye Exam for Children
+42;Item(s) per Year;Routine Eye Exam for Children
+43;Visit(s) per Year;Routine Eye Exam for Children
+44;Exam(s) per Year;Routine Eye Exam for Children
+45;;Routine Eye Exam for Children
+46;Exam(s) per Benefit Period;Routine Eye Exam for Children
+47;Visit(s) per Year;Routine Eye Exam (Adult)
+48;Exam(s) per Year;Routine Eye Exam (Adult)
+49;;Routine Eye Exam (Adult)
+50;Exam(s) per 2 Years;Routine Eye Exam (Adult)
+51;Visit(s) per 2 Years;Routine Eye Exam (Adult)
+52;Treatment(s) per Year;Routine Eye Exam (Adult)
+53;Exam(s) per Benefit Period;Routine Eye Exam (Adult)
+54;Visit(s) per Benefit Period;Routine Eye Exam (Adult)
+55;Exam(s) per Benefit Period;Routine Dental Services (Adult)
+56;Dollars per Year;Routine Dental Services (Adult)
+57;;Routine Dental Services (Adult)
+58;Visit(s) per Year;Routine Dental Services (Adult)
+59;Visit(s) per 6 Months;Routine Dental Services (Adult)
+60;Visit(s) per Benefit Period;Routine Dental Services (Adult)
+61;;Rehabilitative Speech Therapy
+62;Visit(s) per Year;Rehabilitative Speech Therapy
+63;Visit(s) per Benefit Period;Rehabilitative Speech Therapy
+64;;Rehabilitative Occupational and Rehabilitative Physical Therapy
+65;Visit(s) per Year;Rehabilitative Occupational and Rehabilitative Physical Therapy
+66;Visit(s) per Benefit Period;Rehabilitative Occupational and Rehabilitative Physical Therapy
+67;;Reconstructive Surgery
+68;;Radiation
+69;;Prosthetic Devices
+70;Dollars per Year;Prosthetic Devices
+71;Item(s) per 3 Years;Prosthetic Devices
+72;Item(s) per Year;Prosthetic Devices
+73;;Private-Duty Nursing
+74;Dollars per Benefit Period;Private-Duty Nursing
+75;Hours per Benefit Period;Private-Duty Nursing
+76;Visit(s) per Benefit Period;Private-Duty Nursing
+77;Hours per Year;Private-Duty Nursing
+78;Visit(s) per Year;Private-Duty Nursing
+79;;Primary Care Visit to Treat an Injury or Illness
+80;;Preventive Care/Screening/Immunization
+81;Exam(s) per Benefit Period;Preventive Care/Screening/Immunization
+82;Visit(s) per Year;Preventive Care/Screening/Immunization
+83;;Prescription Drugs Other
+84;;Prenatal and Postnatal Care
+85;;Preferred Brand Drugs
+86;;Posterior Composites - Adult
+87;Visit(s) per Year;Post-cochlear implant aural therapy
+88;;Post-Mastectomy Care
+89;Procedure(s) per Year;Periodontal Maintenance
+90;;Periodontal Maintenance
+91;;Partial Pulpotomy
+92;Procedure(s) per Lifetime;Partial Pulpotomy
+93;;Outpatient Surgery Physician/Surgical Services
+94;Visit(s) per Year;Outpatient Rehabilitation Services
+95;;Outpatient Rehabilitation Services
+96;Visit(s) per Benefit Period;Outpatient Rehabilitation Services
+97;;Outpatient Facility Fee (e.g., Ambulatory Surgery Center)
+98;;Outpatient Facility Fee (e.g.,  Ambulatory Surgery Center)
+99;;Other Practitioner Office Visit (Nurse, Physician Assistant)
+100;Visit(s) per Year;Other Practitioner Office Visit (Nurse, Physician Assistant)
+101;;Ostomy Supplies
+102;;Orthotics
+103;;Orthodontic Services for the Treatment of Orofacial Anomalies
+104;;Orthodontia - Child
+105;Treatment(s) per Lifetime;Orthodontia - Child
+106;Months per Lifetime;Orthodontia - Child
+107;Procedure(s) per Lifetime;Orthodontia - Child
+108;;Orthodontia - Adult
+109;Treatment(s) per Lifetime;Orthodontia - Adult
+110;;Oral Surgery
+111;;Off Label Prescription Drugs
+112;Days per Benefit Period;Off Label Prescription Drugs
+113;Procedure(s) per 3 Years;Occlusal Adjustments
+114;;Occlusal Adjustments
+115;;Nutritional Counseling
+116;Visit(s) per Lifetime;Nutritional Counseling
+117;Visit(s) per Benefit Period;Nutritional Counseling
+118;Visit(s) per Year;Nutritional Counseling
+119;;Non-Preferred Brand Drugs
+120;;Non Preferred Specialty Drugs
+121;;Newborn Services Other
+122;;Newborn Hearing Screening
+123;Visit(s) per Year;Naprapathic Service
+124;Visit(s) per Benefit Period;Naprapathic Service
+125;Visit(s) per Benefit Period;Mental/Behavioral Health Outpatient Services
+126;;Mental/Behavioral Health Outpatient Services
+127;;Mental/Behavioral Health Inpatient Services
+128;Days per Benefit Period;Mental/Behavioral Health Inpatient Services
+129;;Mental Health Other
+130;;Major Dental care - Adult HIGH Plan
+131;;Major Dental Care - Child
+132;Treatment(s) per Procedure;Major Dental Care - Child
+133;Months per Procedure;Major Dental Care - Child
+134;Procedure(s) per Benefit Period;Major Dental Care - Child
+135;Dollars per Year;Major Dental Care - Child
+136;Dollars per Year;Major Dental Care - Adult
+137;;Major Dental Care - Adult
+138;Procedure(s) per Year;Major Dental Care - Adult
+139;Months per Procedure;Major Dental Care - Adult
+140;Procedure(s) per Benefit Period;Major Dental Care - Adult
+141;;Long-Term/Custodial Nursing Home Care
+142;;Laboratory Outpatient and Professional Services
+143;;Inpatient Physician and Surgical Services
+144;;Inpatient Hospital Services (e.g., Hospital Stay)
+145;;Inherited Metabolic Disorder - PKU
+146;;Infusion Therapy
+147;Visit(s) per Benefit Period;Infusion Therapy
+148;;Infertility Treatment
+149;Dollars per Lifetime;Infertility Treatment
+150;Procedure(s) per Lifetime;Infertility Treatment
+151;;Infant Formulas
+152;;Implants - Child
+153;;Immediate Dentures
+154;Procedure(s) per Lifetime;Immediate Dentures
+155;;Imaging (CT/PET Scans, MRIs)
+156;;Human Leukocyte Antigen Testing
+157;Item(s) per Lifetime;Human Leukocyte Antigen Testing
+158;;Hospice Services
+159;Days per Year;Hospice Services
+160;Months per 3 Years;Hospice Services
+161;Days per Episode;Hospice Services
+162;Visit(s) per Year;Home Health Care Services
+163;;Home Health Care Services
+164;Visit(s) per Benefit Period;Home Health Care Services
+165;Days per Year;Home Health Care Services
+166;;Hearing Aids
+167;Item(s) per Benefit Period;Hearing Aids
+168;Item(s) per Episode;Hearing Aids
+169;Item(s) per 3 Years;Hearing Aids
+170;Dollars per Year;Hearing Aids
+171;Dollars per 2 Years;Hearing Aids
+172;Visit(s) per Year;Habilitation Services
+173;;Habilitation Services
+174;Visit(s) per Benefit Period;Habilitation Services
+175;Days per Year;Habilitation Services
+176;;Gym Access
+177;;Generic Drugs Other
+178;;Generic Drugs
+179;;Eye Glasses for Children
+180;Item(s) per Year;Eye Glasses for Children
+181;Item(s) per Benefit Period;Eye Glasses for Children
+182;Exam(s) per Year;Eye Glasses for Children
+183;Visit(s) per Year;Eye Glasses for Children
+184;;Extractions
+185;Procedure(s) per Lifetime;Extractions
+186;;Emergency Transportation/Ambulance
+187;;Emergency Room Services
+188;;Durable Medical Equipment
+189;Dollars per Year;Durable Medical Equipment
+190;;Domestic Violence Treatment
+191;;Dialysis
+192;Treatment(s) per Week;Dialysis
+193;;Diabetes Education
+194;Visit(s) per Benefit Period;Diabetes Education
+195;Hours per Year;Diabetes Education
+196;Visit(s) per Year;Diabetes Education
+197;;Diabetes Care Management
+198;;Devices and Supplies for Sleep Treatment
+199;;Dental Implants - Adult
+200;Visit(s) per Benefit Period;Dental Check-Up for Children
+201;;Dental Check-Up for Children
+202;Visit(s) per 6 Months;Dental Check-Up for Children
+203;Exam(s) per 6 Months;Dental Check-Up for Children
+204;Visit(s) per Year;Dental Check-Up for Children
+205;Treatment(s) per 6 Months;Dental Check-Up for Children
+206;Exam(s) per Benefit Period;Dental Check-Up for Children
+207;Procedure(s) per Year;Dental Check-Up for Children
+208;Exam(s) per Year;Dental Check-Up for Children
+209;;Dental Anesthesia
+210;;Delivery and All Inpatient Services for Maternity Care
+211;;Cosmetic Surgery
+212;Treatment(s) per Year;Cosmetic Surgery
+213;Procedure(s) per Episode;Cosmetic Surgery
+214;;Cochlear Implants
+215;;Clinical Trials
+216;Visit(s) per Year;Chiropractic Care
+217;;Chiropractic Care
+218;Visit(s) per Benefit Period;Chiropractic Care
+219;;Chemotherapy
+220;Visit(s) per Year;Cardiac Rehabilitation
+221;;Cancer Treatments
+222;;Basic Dental Care - Child
+223;Visit(s) per 6 Months;Basic Dental Care - Child
+224;Treatment(s) per Procedure;Basic Dental Care - Child
+225;Procedure(s) per 2 Years;Basic Dental Care - Child
+226;Procedure(s) per Year;Basic Dental Care - Child
+227;Dollars per Year;Basic Dental Care - Child
+228;Visit(s) per 2 Years;Basic Dental Care - Child
+229;Procedure(s) per 2 Years;Basic Dental Care - Adult
+230;Dollars per Year;Basic Dental Care - Adult
+231;;Basic Dental Care - Adult
+232;Treatment(s) per Year;Basic Dental Care - Adult
+233;Procedure(s) per Year;Basic Dental Care - Adult
+234;Visit(s) per 2 Years;Basic Dental Care - Adult
+235;;Bariatric Surgery
+236;Procedure(s) per Lifetime;Bariatric Surgery
+237;;Autism Spectrum Disorders
+238;Visit(s) per Year;Autism Spectrum Disorder - Non-Intensive Level Services
+239;Visit(s) per Year;Autism Spectrum Disorder - Intensive Level Services
+240;;Allergy Testing
+241;Visit(s) per Benefit Period;Acupuncture
+242;;Acupuncture
+243;Visit(s) per Year;Acupuncture
+244;;Accidental Dental
+245;Procedure(s) per Benefit Period;Accidental Dental
+246;Dollars per Year;Accidental Dental
+247;Dollars per Episode;Accidental Dental
+248;Treatment(s) per Episode;Accidental Dental
+249;;Abortion for Which Public Funding is Prohibited
