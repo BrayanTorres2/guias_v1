@@ -56,4 +56,3 @@ ZooAlpes maneja diferentes tipos de entrada entre los que se encuentran: plan **
 - En estos modelos multidimensionales se debe identificar claramente la tabla de hechos
 - Revise los errores frecuentes dados en videos de la semana y valide que su modelo no los tenga
 - No olviden la dimensión Fecha
-- 
