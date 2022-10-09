@@ -44,14 +44,14 @@ Dichos datos pueden tener errores ya que no han sido utilizados previamente para
 2.	Los beneficios de planes ofrecidos por diferentes proveedores no deben tener una diferencia mayor del 20%  a nivel coseguro y copago 
 3.	Si hay beneficios con límite cuantitativo entonces debes tener una cantidad límite diferente de cero. 
 4.	F1 y F2. Se comparte información de los años 2017 al 2021  
-5.	La empresa comparte XXX número de grupos de servicios y YYYY números de beneficios de planes 
-6.	Además, les comparte información de ZZZ planes del país en los años dados ( el número no coincide) 
+5.	La empresa comparte XXX número de grupos de servicios y YYYY números de beneficios de planes. Los valores puntuales estarán disponibles antes de iniciar la actividad. 
+6.	Además, les comparte información de ZZZ planes del país en los años dados. Los valores puntuales estarán disponibles antes de iniciar la actividad.
 
 
 ## **Recursos requeridos**
 ***Datos suministrados***
 
-Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%20IV.xlsx), ambos recursos requeridos para el desarrollo de esta tarea, las tablas son copias de las tablas relacionales del negocio. Son 5 tablas por lo que un estudiante del grupo se debe encargar de un grupo de fuente de datos. Las tablas compartidas por grupo de fuente son:
+Los datos los puede encontrar en la base de datos: ProyectoTransaccional del servidor que manejamos en los tutoriales. También puede encontrar el diccionario de los mismos [aquí](Diccionario%I.xlsx), ambos recursos requeridos para el desarrollo de esta tarea, las tablas son copias de las tablas relacionales del negocio. Son 5 tablas por lo que un estudiante del grupo se debe encargar de un grupo de fuente de datos. Las tablas compartidas por grupo de fuente son:
 -	F1: GruposAreasdeServicioCopia y AreasDeServicioCopia
 - F2: BeneficiosCopia
 - F3: BeneficiosPlanesCopia
