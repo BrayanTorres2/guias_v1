@@ -31,7 +31,7 @@ Para esta actividad de análisis de calidad de datos, la empresa les comparte lo
 
 F1. GruposAreasdeServicio y areas de servicio  
 
-F2. Beneficios (Tipos de beneficio y condiciones) 
+F2. TiposBeneficios (Tipos de beneficio y condiciones) 
 
 F3. BeneficiosPlanes  
 
