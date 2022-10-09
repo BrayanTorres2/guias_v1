@@ -55,9 +55,8 @@ Recuerde que está el tutorial de “Entendimiento de datos”, que será de uti
 - Pyspark
 
 ## **Recomendaciones de los entregables**
-- Recuerde incluir el significado de una fila
-- Evite tener imágenes o resultados de consultas sin comentarios asociados
-- Sea organizado al momento de generar el archivo a entregar
+- Recuerde incluir en la revisión todas las dimensiones de calidad
+- Si hay supuestos que debe hacer o preguntas sobre la organización, regístrelos en un archivo para envarlo más adelante a la organización para que ellos lo revisen y contesten
 
 ## **Preguntas o más información**
 - Las preguntas que surjan en el desarrollo de esta tarea pueden registrarlas en el slack del curso.
